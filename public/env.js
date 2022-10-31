@@ -1,0 +1,3 @@
+window.env = {
+  "REACT_API_KEY": "c9964fa500bf4302a62319141e172371"
+};
